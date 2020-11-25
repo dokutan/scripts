@@ -7,7 +7,7 @@
 if [ "$1" = "start" ]
 then
 	systemctl stop NetworkManager.service
-	openpyn -f $2 --p2p
+	openpyn -f "$2" --p2p
 elif [ "$1" = "stop" ]
 then
 	openpyn -x

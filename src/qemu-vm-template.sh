@@ -1,4 +1,4 @@
-#!/bin/env sh
+#!/usr/bin/env sh
 # A simple QEMU/KVM virtual machine
 # remove "-net none" to enable networking
 # add "-usb -device usb-host,vendorid=0x1234,productid=0x1234 \" for usb passthrough

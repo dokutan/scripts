@@ -1,4 +1,4 @@
-#!/bin/env sh
+#!/usr/bin/env sh
 # Uses GraphicsMagick to display an image using braille characters
 # Usage img2braille.sh image [width]
 

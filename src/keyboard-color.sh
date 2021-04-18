@@ -1,4 +1,4 @@
-#!/bin/env sh
+#!/usr/bin/env sh
 # GUI to change the LED color on keyboards supported by https://github.com/dokutan/rgb_keyboard
 
 # get color from user

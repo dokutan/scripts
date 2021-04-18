@@ -1,4 +1,4 @@
-#!/bin/env sh
+#!/usr/bin/env sh
 # turn display off, disable console switching, lock
 # enable console switching after unlock
 

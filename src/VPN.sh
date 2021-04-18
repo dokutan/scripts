@@ -1,4 +1,4 @@
-#!/bin/env sh
+#!/usr/bin/env sh
 # A wrapper around openpyn for NordVPN connections.
 # Disables NetworkManager to prevent DNS leaks.
 # Usage:

@@ -14,6 +14,7 @@ trap cleanup EXIT
 cleanup() {
 	tput cvvis # enable cursor
 	tput sgr0  # disable colors
+	clear
 }
 
 # hide cursor

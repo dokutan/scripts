@@ -1,0 +1,5 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=espdic
+Exec=sh -c "~/.local/bin/espdic.sh"
